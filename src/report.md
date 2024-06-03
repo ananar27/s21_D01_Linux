@@ -307,7 +307,7 @@
 
 ![Part 14.3](pictures/task14_3.png)  *cat /var/log/auth.log*
 
-- Check login via `lastlog`. Here my user is specified via `lastlog -u vova`.
+- Check login via `lastlog`. Here my user is specified via `lastlog -u username`.
 
 ![Part 14.4](pictures/task14_4.png)  *lastlog output*
 
