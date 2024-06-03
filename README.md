@@ -2,8 +2,6 @@
 
 Linux system installation and updates. Administration basics.
 
-The russian version of the task can be found in the repository.
-
 ## Contents
 
 1. [Chapter I](#chapter-i)
@@ -343,6 +341,3 @@ Do you want to learn how to work in VIM?
 
 ##### Remove all tasks from the job scheduler.
 - Add a screenshot of the list of current tasks for CRON to the report.
-
-
-💡 [Tap here](https://forms.yandex.ru/cloud/641817c002848f26a078c4a6/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
